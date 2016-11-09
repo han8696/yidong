@@ -1,0 +1,41 @@
+@import url(./base.css);
+#head{
+width:100%;
+height:24px;
+background:#f6f6f6;
+border-bottom:1px solid #ececec;
+}
+.headCon{
+       width:1200px;
+	   height:100%;
+	   background:red;
+}
+.headLeft{
+width:160;
+height:100%;
+background:green;
+float:left;
+}
+.headLeft a{
+color:#888;
+font-size:12px;
+border-right:1px solid #ececec;
+display:inline-block;
+line-height:24px;
+padding-right:10px;
+}
+
+.headRight{width:360;
+            height:100%;
+            background:green;
+			float:right;}
+.headRight a{
+color:#888;
+font-size:12px;
+}
+.headRight span{
+
+}
+.headRight img{
+
+}
